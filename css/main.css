@@ -1,3 +1,22 @@
 body {
   font-family: Palatino;
 }
+
+.bookContainer {
+  color:blue;
+
+}
+
+h1, h2 {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: large;
+}
+
+h2 {
+  text-decoration:wavy;
+  font-size: medium;
+}
+
+p {
+  font-size: small;
+}
